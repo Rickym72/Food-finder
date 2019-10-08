@@ -1,2 +1,2 @@
-# Food-finder
-find the closest OPEN location(work in progress)
+# path finder
+find the fastest path from point A to B
